@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1e8e9b7-5ea1-4e35-8621-c630df71f8f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/src/main/java/com/ngochung/inventoryservice/InventoryServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/src/main/java/com/ngochung/inventoryservice/controller/InventoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/src/main/java/com/ngochung/inventoryservice/model/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/src/main/java/com/ngochung/inventoryservice/repository/InventoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/src/main/java/com/ngochung/inventoryservice/service/InventoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/src/main/java/com/ngochung/inventoryservice/service/impl/InventoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventory-service/src/test/java/com/ngochung/inventoryservice/InventoryServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/ngochung/orderservice/OrderServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/ngochung/orderservice/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/ngochung/orderservice/dto/OrderLineItemsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/ngochung/orderservice/dto/OrderRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/ngochung/orderservice/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/ngochung/orderservice/model/OrderLineItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/ngochung/orderservice/repository/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/ngochung/orderservice/service/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/ngochung/orderservice/service/impl/OrderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/test/java/com/ngochung/orderservice/OrderServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/src/main/java/com/ngochung/productservice/ProductServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/src/main/java/com/ngochung/productservice/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/src/main/java/com/ngochung/productservice/dto/ProductRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/src/main/java/com/ngochung/productservice/dto/ProductResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/src/main/java/com/ngochung/productservice/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/src/main/java/com/ngochung/productservice/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/src/main/java/com/ngochung/productservice/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/src/main/java/com/ngochung/productservice/service/impl/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-service/src/test/java/com/ngochung/productservice/ProductServiceApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../ENVIRONMENT SOFTWARE/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\ENVIRONMENT SOFTWARE\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MDRX4wBumxMyGVb00DtmyEXnbe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/Course/Spring-Microservices/ECommerce-Microservies/product-service",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Course\Spring-Microservices\ECommerce-Microservies\product-service" />
+      <recent name="D:\Course\Spring-Microservices\ECommerce-Microservies\order-service" />
+      <recent name="D:\Course\Spring-Microservices\ECommerce-Microservies\inventory-service" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Admin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1e8e9b7-5ea1-4e35-8621-c630df71f8f2" name="Changes" comment="" />
+      <created>1677300206725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677300206725</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
