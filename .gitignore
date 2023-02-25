@@ -1,1 +1,5 @@
 /.idea
+/ECommerce-Microservies/inventory-service/target
+/ECommerce-Microservies/product-service/target
+/ECommerce-Microservies/order-service/target
+/ECommerce-Microservies/discovery-server/target
