@@ -9,3 +9,9 @@
 /ECommerce-Microservies/discovery-server/HELP.md
 /ECommerce-Microservies/discovery-server/mvnw
 /ECommerce-Microservies/.idea
+/ECommerce-Microservies/api-gateway/mvnw.cmd
+/ECommerce-Microservies/api-gateway/.mvn
+/ECommerce-Microservies/api-gateway/target
+/ECommerce-Microservies/api-gateway/.gitignore
+/ECommerce-Microservies/api-gateway/HELP.md
+/ECommerce-Microservies/api-gateway/mvnw
