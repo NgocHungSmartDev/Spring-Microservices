@@ -20,10 +20,10 @@ import java.util.UUID;
 @Transactional
 public class OrderServiceImpl implements OrderService {
     private OrderRepository orderRepository;
-    private WebClient webClient;
+    private WebClient.Builder webClient;
 
     @Autowired
-    public OrderServiceImpl(OrderRepository orderRepository, WebClient webClient) {
+    public OrderServiceImpl(OrderRepository orderRepository, WebClient.Builder webClient) {
         this.orderRepository = orderRepository;
         this.webClient = webClient;
     }
@@ -47,7 +47,7 @@ public class OrderServiceImpl implements OrderService {
                 .toList();
 
         // Call Inventory Service, and place order if product is in stock
-        InventoryResponse[] inventoryResponsesArray = webClient.get()
+        InventoryResponse[] inventoryResponsesArray = webClient.build().get()
                 .uri("http://inventory-service/api/v1/inventory"
                         , uriBuilder -> uriBuilder.queryParam("skuCodes", skuCodes).build()
                 ).retrieve().bodyToMono(InventoryResponse[].class)

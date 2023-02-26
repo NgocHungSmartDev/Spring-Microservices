@@ -3,3 +3,9 @@
 /ECommerce-Microservies/product-service/target
 /ECommerce-Microservies/order-service/target
 /ECommerce-Microservies/discovery-server/target
+/ECommerce-Microservies/discovery-server/mvnw.cmd
+/ECommerce-Microservies/discovery-server/.mvn
+/ECommerce-Microservies/discovery-server/.gitignore
+/ECommerce-Microservies/discovery-server/HELP.md
+/ECommerce-Microservies/discovery-server/mvnw
+/ECommerce-Microservies/.idea
