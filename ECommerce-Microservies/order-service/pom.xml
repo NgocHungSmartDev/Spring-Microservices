@@ -56,6 +56,16 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>io.honeycomb.beeline</groupId>
+            <artifactId>beeline-spring-boot-sleuth-starter</artifactId>
+            <version>2.1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>io.zipkin.java</groupId>
+            <artifactId>zipkin</artifactId>
+            <version>2.10.1</version>
+        </dependency>
     </dependencies>
 
 </project>
