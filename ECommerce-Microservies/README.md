@@ -11,10 +11,15 @@
 
 ## Shortcuts IntelliJ IDEA
 
-CTL + N: go to class
-CTL + E: recent files popup
-CTL + F12: file structure popup
-CTL + SHIFT + P: paste from history
+* CTL + N: go to class
+* CTL + E: recent files popup
+* CTL + F12: file structure popup
+* CTL + SHIFT + P: paste from history
+
+## Docker Zipkin
+* refer: https://zipkin.io/pages/quickstart.html
+* start with docker: docker run -d -p 9411:9411 openzipkin/zipkin
+
 
 
     
